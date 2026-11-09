@@ -455,6 +455,7 @@ public import Physlib.QuantumMechanics.PoschlTeller.Basic
 public import Physlib.QuantumMechanics.PoschlTeller.Scattering
 public import Physlib.QuantumMechanics.QuantumSystem.Basic
 public import Physlib.QuantumMechanics.RectangularBarrier.Basic
+public import Physlib.QuantumMechanics.Semiclassical.Basic
 public import Physlib.QuantumMechanics.SpaceDQuantumSystem
 public import Physlib.Relativity.Bispinors.Basic
 public import Physlib.Relativity.Bispinors.Pauli.Basic
